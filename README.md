@@ -1,3 +1,3 @@
 # CSE134B-<TermInfo>-HW1
-# Name:
-# PID:
+# Name: Katie Ngo
+# PID: 200170439 / A17786612
